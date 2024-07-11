@@ -1,4 +1,52 @@
 studentId, firstName, lastName, courseId, courseName, term, year
-123546851, john, smith, cst8288, Software Design Patterns, WINTER, 2024
-9861534S2, jane, smyth, mat1101A, Intro to Math, FALL, 2025
-3215619823, michael, hill, cst8288, Software Design Patterns, SUMMER, 1955
+123546851,john,smith, cst8288, Software Design Patterns, WINTER,2024
+9861534S2,jane,smyth, mat1101A, Intro to Math, FALL,2025
+3215619823,michael, hill, cst8288, Software Design Patterns, SUMMER,1955
+123546851,john, smith, cst8289, Software, Design,2024
+9861534S2,jane,smyth, cst8290,Intro,SUMMER,2025
+3215619823,michael,hill, cst8291,Software,SUMMER,1955
+456789123,alice,johnson, cst8292,Physics,SUMMER,1990
+987654321,bob,brown, cst8293,Organic,SUMMER,1991
+123123123,charlie,davis, cst8294,English,SUMMER,1992
+456456456,diana,evans, cst8295,World,SUMMER,1993
+789789789,edward,frank, cst8296,Biology,FALL,1994
+101010101,fiona,green, cst8297,Computer,FALL,1995
+121212121,george,harris, cst8298,Advanced,FALL,1996
+131313131,hannah,ingram, cst8299,Quantum,FALL,1997
+141414141,ian,johnson, cst8300,Software,FALL,1998
+151515151,julia,kim, cst8301,Chemistry,FALL,1999
+161616161,kevin,lee, cst8302,Genetics,FALL,2000
+171717171,laura,martin, cst8303,Data,FALL,2001
+181818181,matthew,nelson, cst8304,Modern,FALL,2002
+191919191,natalie,owen, cst8305,Linear,FALL,2003
+202020202,oliver,parker, cst8306,Thermodynamics,FALL,2004
+212121212,penelope,quinn, cst8307,Microbiology,FALL,2005
+222222222,quincy,roberts,csc3019,Algorithms,FALL,2006
+232323232,rachel,stewart,csc3020,European,FALL,2007
+242424242,steven,turner,csc3021,Shakespearean,FALL,2008
+252525252,thomas,urie,csc3022,Differential,FALL,2009
+262626262,ursula,vance,csc3023,Electrodynamics,FALL,2010
+272727272,victor,white,csc3024,Physical,FALL,2011
+282828282,wendy,xavier,csc3025,Evolutionary,FALL,2012
+292929292,xavier,young,csc3026,Machine,WINTER,2013
+303030303,yolanda,zane,csc3027,American,WINTER,2014
+313131313,zachary,abbott,csc3028,Victorian,WINTER,2015
+323232323,alice,barker,csc3029,Complex,WINTER,2016
+333333333,benjamin,carter,csc3030,Statistical,WINTER,2017
+343434343,catherine,douglas,csc3031,Inorganic,WINTER,2018
+353535353,daniel,edwards,csc3032,Cell,WINTER,2019
+363636363,emily,ferguson,csc5019,Artificial,WINTER,2020
+373737373,frank,garcia,csc5020,Middle,WINTER,2021
+383838383,grace,hamilton,csc5021,Postcolonial,WINTER,2022
+393939393,henry,irwin,csc5022,Numerical,WINTER,2023
+404040404,isabella,jacobs,csc5023,Condensed,WINTER,2024
+414141414,jack,keller,csc5024,Environmental,WINTER,2018
+424242424,karen,lewis,csc5025,Immunology,WINTER,2019
+434343434,larry,mitchell,csc5026,Computer,WINTER,2020
+444444444,mary,nelson,csc5027,African,WINTER,2021
+454545454,nathan,oliver,csc5028,Literary,WINTER,2022
+464646464,olivia,peters,csc5029,Topology,WINTER,2018
+474747474,paul,quincy,csc5030,Plasma,WINTER,2019
+484848484,quinn,robinson,csc5031,Biochemistry,WINTER,2020
+494949494,rita,scott,csc5032,Neurobiology,SPRING,2021
+505050505,sam,thomas,csc503,Robotics,SUMMER,2022
