@@ -1,6 +1,5 @@
-
 ## Summary
-Date and Time:2024-07-17T12:07:35.141735
+Date and Time:2024-07-17T15:34:35.299836
 Student： 44 |
 Course：44 |
 StudentCourse：44 |
@@ -137,39 +136,3 @@ Added StudentCourse: 474747474-csc5030
 Added Student: 484848484
 Added Course: csc5031
 Added StudentCourse: 484848484-csc5031
-## Summary
-Date and Time:2024-07-17T12:09:45.124126
-Student： 0 |
-Course：0 |
-StudentCourse：0 |
-
-## Summary
-Date and Time:2024-07-17T14:08:40.219225
-Student： 0 |
-Course：0 |
-StudentCourse：0 |
-
-## Summary
-Date and Time:2024-07-17T15:21:29.827393
-Student： 0 |
-Course：0 |
-StudentCourse：0 |
-
-## Summary
-Date and Time:2024-07-17T15:28:03.189005
-Student： 0 |
-Course：0 |
-StudentCourse：0 |
-
-## Summary
-Date and Time:2024-07-17T15:28:40.626497
-Student： 0 |
-Course：0 |
-StudentCourse：0 |
-
-## Summary
-Date and Time:2024-07-17T15:29:32.451459
-Student： 0 |
-Course：0 |
-StudentCourse：0 |
-
