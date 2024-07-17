@@ -24,3 +24,7 @@ CREATE TABLE StudentCourse (
     FOREIGN KEY (courseId) REFERENCES Course(courseId),
     PRIMARY KEY (studentId, courseId)
 );
+
+# DELETE FROM StudentCourse;
+# DELETE FROM Student;
+# DELETE FROM Course;
