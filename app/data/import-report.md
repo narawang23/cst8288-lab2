@@ -143,3 +143,33 @@ Student： 0 |
 Course：0 |
 StudentCourse：0 |
 
+## Summary
+Date and Time:2024-07-17T14:08:40.219225
+Student： 0 |
+Course：0 |
+StudentCourse：0 |
+
+## Summary
+Date and Time:2024-07-17T15:21:29.827393
+Student： 0 |
+Course：0 |
+StudentCourse：0 |
+
+## Summary
+Date and Time:2024-07-17T15:28:03.189005
+Student： 0 |
+Course：0 |
+StudentCourse：0 |
+
+## Summary
+Date and Time:2024-07-17T15:28:40.626497
+Student： 0 |
+Course：0 |
+StudentCourse：0 |
+
+## Summary
+Date and Time:2024-07-17T15:29:32.451459
+Student： 0 |
+Course：0 |
+StudentCourse：0 |
+
